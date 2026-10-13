@@ -1,0 +1,33 @@
+Order_ID,Order_Date,Region,State,City,Category,Sub_Category,Product_Name,Quantity,Unit_Price,Discount,Profit,Sales
+CA-2025-0001,2025-01-03,West,California,Los Angeles,Furniture,Chairs,Ergonomic Chair,2,180.0,0.1,45.0,324.0
+CA-2025-0002,2025-01-04,East,New York,New York City,Technology,Phones,Wireless Headset,3,89.99,0.0,35.0,269.97
+CA-2025-0003,2025-01-05,Central,Texas,Dallas,Office Supplies,Binders,Ring Binder Pack,5,12.5,0.05,8.0,59.38
+CA-2025-0004,2025-01-06,South,Florida,Miami,Furniture,Tables,Compact Work Table,1,249.0,0.15,-12.0,211.65
+CA-2025-0005,2025-01-08,West,Washington,Seattle,Technology,Accessories,USB-C Hub,4,39.99,0.0,42.0,159.96
+CA-2025-0006,2025-01-10,East,Pennsylvania,,Office Supplies,Paper,Copy Paper Box,8,24.0,0.0,28.0,192.0
+CA-2025-0007,2025-01-12,Central,Illinois,Chicago,Technology,Phones,Desk Phone,2,75.0,0.1,18.0,135.0
+CA-2025-0008,2025-01-14,South,Georgia,Atlanta,Furniture,Bookcases,Small Bookcase,1,135.0,0.05,9.0,128.25
+CA-2025-0009,2025-01-16,West,Oregon,Portland,Office Supplies,Storage,Storage Bins,6,18.75,0.0,24.0,112.5
+CA-2025-0010,2025-01-18,East,New Jersey,Newark,Technology,Accessories,Wireless Mouse,5,22.99,0.05,31.0,109.2
+CA-2025-0011,2025-01-20,Central,Wisconsin,Madison,Furniture,Chairs,  Task Chair  ,2,119.0,0.1,20.0,214.2
+CA-2025-0012,2025-01-22,South,North Carolina,Charlotte,Office Supplies,Labels,Shipping Labels,10,7.5,0.0,22.0,75.0
+CA-2025-0013,2025-01-25,West,California,San Diego,Technology,Accessories,Webcam,3,54.0,0.05,27.0,153.9
+CA-2025-0014,2025-01-28,East,New York,Buffalo,Furniture,Tables,Side Table,2,89.0,0.2,-8.0,142.4
+CA-2025-0015,2025-02-01,Central,Colorado,Denver,Office Supplies,Binders,Presentation Binder,4,16.0,0.0,14.0,64.0
+CA-2025-0016,2025-02-03,South,Virginia,Richmond,Technology,Phones,Cordless Phone,2,99.0,0.1,25.0,178.2
+CA-2025-0017,2025-02-05,West,Arizona,Phoenix,Furniture,Chairs,Visitor Chair,3,79.0,0.05,33.0,225.15
+CA-2025-0018,2025-02-07,East,Massachusetts,Boston,Office Supplies,Paper,Premium Paper Pack,6,14.5,0.0,19.0,87.0
+CA-2025-0019,2025-02-09,Central,Ohio,Columbus,Technology,Accessories,Laptop Stand,2,44.0,0.0,26.0,88.0
+CA-2025-0020,2025-02-11,South,Tennessee,Nashville,Furniture,Bookcases,Wall Bookcase,1,159.0,0.15,-5.0,135.15
+CA-2025-0021,2025-02-13,West,Nevada,Las Vegas,Office Supplies,Storage,File Organizer,4,21.0,0.0,17.0,84.0
+CA-2025-0022,2025-02-15,East,Maryland,Baltimore,Technology,Phones,Conference Phone,1,210.0,0.05,38.0,199.5
+CA-2025-0023,2025-02-18,Central,Minnesota,Minneapolis,Furniture,Chairs,Executive Chair,1,299.0,0.1,54.0,269.1
+CA-2025-0024,2025-02-20,South,Alabama,Birmingham,Office Supplies,Labels,Address Labels,12,6.0,0.0,20.0,72.0
+CA-2025-0025,2025-02-22,West,California,San Jose,Technology,Accessories,Portable SSD,2,129.0,0.05,41.0,245.1
+CA-2025-0026,2025-02-24,East,Connecticut,Hartford,Furniture,Tables,Meeting Table,1,399.0,0.2,-25.0,319.2
+CA-2025-0027,2025-02-26,Central,Missouri,Kansas City,Office Supplies,Binders,Binder Clips,20,3.5,0.0,18.0,70.0
+CA-2025-0028,2025-03-01,South,Texas,Austin,Technology,Phones,Smartphone,2,349.0,0.1,62.0,628.2
+CA-2025-0029,2025-03-03,West,Colorado,Boulder,Furniture,Chairs,Mesh Office Chair,2,159.0,0.05,48.0,302.1
+CA-2025-0030,2025-03-05,East,New York,Rochester,Office Supplies,Paper,Recycled Paper Box,5,26.0,0.0,21.0,130.0
+CA-2025-0003,2025-01-05,Central,Texas,Dallas,Office Supplies,Binders,Ring Binder Pack,5,12.5,0.05,8.0,59.38
+CA-2025-0015,2025-02-01,Central,Colorado,Denver,Office Supplies,Binders,Presentation Binder,4,16.0,0.0,14.0,64.0
